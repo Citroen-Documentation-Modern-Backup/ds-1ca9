@@ -1,0 +1,73 @@
+{
+ "ref": "034008616201A",
+ "refDisplay": "0340 08 616201A",
+ "title": "CEINTURES SECURITE AV",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DAF&B0F=B0FDM",
+   "fctId": "FCT0237"
+  },
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DAF&B0F=B0FDM",
+   "fctId": "FCT0952"
+  },
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DAF&B0F=B0FBC",
+   "fctId": "FCT0237"
+  },
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DAF&B0F=B0FBC",
+   "fctId": "FCT0952"
+  },
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DAF&B0F=B0FS3",
+   "fctId": "FCT0237"
+  },
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DAF&B0F=B0FS3",
+   "fctId": "FCT0952"
+  },
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DAF&B0F=B0FS1",
+   "fctId": "FCT0237"
+  },
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DAF&B0F=B0FS1",
+   "fctId": "FCT0952"
+  },
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DK0&B0F=B0FDM",
+   "fctId": "FCT0237"
+  },
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DK0&B0F=B0FDM",
+   "fctId": "FCT0952"
+  },
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DK0&B0F=B0FBC",
+   "fctId": "FCT0237"
+  },
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DK0&B0F=B0FBC",
+   "fctId": "FCT0952"
+  }
+ ]
+}

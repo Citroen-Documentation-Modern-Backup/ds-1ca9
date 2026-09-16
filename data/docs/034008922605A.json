@@ -1,0 +1,43 @@
+{
+ "ref": "034008922605A",
+ "refDisplay": "0340 08 922605A",
+ "title": "MATELASSURE ASSISE AV - COIFFE",
+ "nature": "",
+ "applicability": "C&T MULTIBULLES + IRIS \"4R\"",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DAF&B0F=B0FDM",
+   "fctId": "FCT0220"
+  },
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DAF&B0F=B0FBC",
+   "fctId": "FCT0220"
+  },
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DAF&B0F=B0FS3",
+   "fctId": "FCT0220"
+  },
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DAF&B0F=B0FS1",
+   "fctId": "FCT0220"
+  },
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DK0&B0F=B0FDM",
+   "fctId": "FCT0220"
+  },
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DK0&B0F=B0FBC",
+   "fctId": "FCT0220"
+  }
+ ]
+}

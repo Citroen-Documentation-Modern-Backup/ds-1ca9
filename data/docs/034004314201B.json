@@ -1,0 +1,43 @@
+{
+ "ref": "034004314201B",
+ "refDisplay": "0340 04 314201B",
+ "title": "PEDALE EMBRAYAGE CABLE",
+ "nature": "",
+ "applicability": "SANS REGULATION VITESSE ET CONDUITE A GAUCHE DEPUIS DATE 20080816",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DAF&B0F=B0FDM",
+   "fctId": "FCT0016"
+  },
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DAF&B0F=B0FBC",
+   "fctId": "FCT0016"
+  },
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DAF&B0F=B0FS3",
+   "fctId": "FCT0016"
+  },
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DAF&B0F=B0FS1",
+   "fctId": "FCT0016"
+  },
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DK0&B0F=B0FDM",
+   "fctId": "FCT0016"
+  },
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DK0&B0F=B0FBC",
+   "fctId": "FCT0016"
+  }
+ ]
+}

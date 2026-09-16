@@ -1,0 +1,43 @@
+{
+ "ref": "034003441001A",
+ "refDisplay": "0340 03 441001A",
+ "title": "VOLANT ENJOLIVEUR GAINE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DAF&B0F=B0FDM",
+   "fctId": "FCT0034"
+  },
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DAF&B0F=B0FBC",
+   "fctId": "FCT0034"
+  },
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DAF&B0F=B0FS3",
+   "fctId": "FCT0034"
+  },
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DAF&B0F=B0FS1",
+   "fctId": "FCT0034"
+  },
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DK0&B0F=B0FDM",
+   "fctId": "FCT0034"
+  },
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DK0&B0F=B0FBC",
+   "fctId": "FCT0034"
+  }
+ ]
+}

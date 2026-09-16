@@ -1,0 +1,43 @@
+{
+ "ref": "034003441105A",
+ "refDisplay": "0340 03 441105A",
+ "title": "COLONNE SUPPORT DIRECTION",
+ "nature": "",
+ "applicability": "COLONNE DE DIRECTION REGLAGE MANUEL ET CONDUITE A GAUCHE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DAF&B0F=B0FDM",
+   "fctId": "FCT0035"
+  },
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DAF&B0F=B0FBC",
+   "fctId": "FCT0035"
+  },
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DAF&B0F=B0FS3",
+   "fctId": "FCT0035"
+  },
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DAF&B0F=B0FS1",
+   "fctId": "FCT0035"
+  },
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DK0&B0F=B0FDM",
+   "fctId": "FCT0035"
+  },
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DK0&B0F=B0FBC",
+   "fctId": "FCT0035"
+  }
+ ]
+}

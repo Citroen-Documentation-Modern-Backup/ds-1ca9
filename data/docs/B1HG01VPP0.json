@@ -1,0 +1,25 @@
+{
+ "ref": "B1HG01VPP0",
+ "refDisplay": "B1HG01VPP0",
+ "title": "Dépose - repose : injecteur essence ",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DAF&B0F=B0FS3",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CA9",
+   "variantKey": "B0D=B0DJ0&B0F=B0FS3",
+   "fctId": "FCT0010"
+  }
+ ]
+}

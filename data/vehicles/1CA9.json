@@ -1,0 +1,99 @@
+{
+ "ldp": "1CA9",
+ "label": "NEMO",
+ "selectors": [
+  {
+   "id": "B0D",
+   "order": 0,
+   "title": "Silhouette",
+   "selection": "",
+   "values": [
+    {
+     "val": "B0DAF",
+     "lib": "BERLINE FAMILIALE"
+    },
+    {
+     "val": "B0DK0",
+     "lib": "SILHOUETTES MIXTES M1-N1"
+    }
+   ],
+   "optional": false
+  },
+  {
+   "id": "B0F",
+   "order": 1,
+   "title": "Moteur",
+   "selection": "",
+   "values": [
+    {
+     "val": "B0FDM",
+     "lib": "1.3 HDI 75"
+    },
+    {
+     "val": "B0FBC",
+     "lib": "1.4 HDI 70"
+    },
+    {
+     "val": "B0FS3",
+     "lib": "1.4 i (TU3AE5)"
+    },
+    {
+     "val": "B0FS1",
+     "lib": "1.4 i 75 (TU3A)"
+    }
+   ],
+   "optional": false
+  }
+ ],
+ "optional": [],
+ "variants": [
+  {
+   "key": "B0D=B0DAF&B0F=B0FDM",
+   "selections": {
+    "B0D": "B0DAF",
+    "B0F": "B0FDM"
+   },
+   "label": "BERLINE FAMILIALE · 1.3 HDI 75"
+  },
+  {
+   "key": "B0D=B0DAF&B0F=B0FBC",
+   "selections": {
+    "B0D": "B0DAF",
+    "B0F": "B0FBC"
+   },
+   "label": "BERLINE FAMILIALE · 1.4 HDI 70"
+  },
+  {
+   "key": "B0D=B0DAF&B0F=B0FS3",
+   "selections": {
+    "B0D": "B0DAF",
+    "B0F": "B0FS3"
+   },
+   "label": "BERLINE FAMILIALE · 1.4 i (TU3AE5)"
+  },
+  {
+   "key": "B0D=B0DAF&B0F=B0FS1",
+   "selections": {
+    "B0D": "B0DAF",
+    "B0F": "B0FS1"
+   },
+   "label": "BERLINE FAMILIALE · 1.4 i 75 (TU3A)"
+  },
+  {
+   "key": "B0D=B0DK0&B0F=B0FDM",
+   "selections": {
+    "B0D": "B0DK0",
+    "B0F": "B0FDM"
+   },
+   "label": "SILHOUETTES MIXTES M1-N1 · 1.3 HDI 75"
+  },
+  {
+   "key": "B0D=B0DK0&B0F=B0FBC",
+   "selections": {
+    "B0D": "B0DK0",
+    "B0F": "B0FBC"
+   },
+   "label": "SILHOUETTES MIXTES M1-N1 · 1.4 HDI 70"
+  }
+ ]
+}

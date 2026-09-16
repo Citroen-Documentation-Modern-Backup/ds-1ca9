@@ -1,0 +1,30 @@
+{
+ "ref": "B1ED0126P0",
+ "refDisplay": "B1ED0126P0",
+ "title": "Contrôle : Calage distribution",
+ "nature": "Contrôles",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DAF&B0F=B0FS3",
+   "fctId": "FCT0007"
+  },
+  {
+   "ldp": "2CA9",
+   "variantKey": "B0D=B0DJ0&B0F=B0FS3",
+   "fctId": "FCT0007"
+  },
+  {
+   "ldp": "2CA9",
+   "variantKey": "B0D=B0DJ0&B0F=B0FS1",
+   "fctId": "FCT0007"
+  }
+ ]
+}

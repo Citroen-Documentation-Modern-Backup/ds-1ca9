@@ -1,0 +1,23 @@
+{
+ "ref": "034007008025A",
+ "refDisplay": "0340 07 008025A",
+ "title": "CAISSE COMPLETE",
+ "nature": "",
+ "applicability": "PORTE LAT D COULISSANTE ET BANQUETTE RABATTABLE MONOBLOC ET SANS VITRES LAT RANG 3 OU PORTE LAT G COULISSANTE ET BANQUETTE RABATTABLE MONOBLOC ET SANS VITRES LAT RANG 3",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DAF&B0F=B0FDM",
+   "fctId": "FCT0146"
+  },
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DK0&B0F=B0FDM",
+   "fctId": "FCT0146"
+  }
+ ]
+}

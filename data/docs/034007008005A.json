@@ -1,0 +1,28 @@
+{
+ "ref": "034007008005A",
+ "refDisplay": "0340 07 008005A",
+ "title": "CAISSE COMPLETE",
+ "nature": "",
+ "applicability": "PORTE LAT D COULISSANTE ET BANQUETTE RABATTABLE MONOBLOC OU PORTE LAT G COULISSANTE ET BANQUETTE RABATTABLE MONOBLOC",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DAF&B0F=B0FBC",
+   "fctId": "FCT0146"
+  },
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DAF&B0F=B0FS1",
+   "fctId": "FCT0146"
+  },
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DK0&B0F=B0FBC",
+   "fctId": "FCT0146"
+  }
+ ]
+}

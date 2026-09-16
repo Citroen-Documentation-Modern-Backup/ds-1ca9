@@ -1,0 +1,35 @@
+{
+ "ref": "B1FG010HP0",
+ "refDisplay": "B1FG010HP0",
+ "title": "Dépose - repose : capteur de niveau et température d’huile moteur",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DAF&B0F=B0FS3",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DAF&B0F=B0FS1",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CA9",
+   "variantKey": "B0D=B0DJ0&B0F=B0FS3",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CA9",
+   "variantKey": "B0D=B0DJ0&B0F=B0FS1",
+   "fctId": "FCT0008"
+  }
+ ]
+}

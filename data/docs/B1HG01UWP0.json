@@ -1,0 +1,45 @@
+{
+ "ref": "B1HG01UWP0",
+ "refDisplay": "B1HG01UWP0",
+ "title": "Dépose - repose : collecteur d’admission d’air",
+ "nature": "Dépose-pose",
+ "applicability": "BVM C510 OU BVM C510 PILOTE",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DAF&B0F=B0FDM",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DAF&B0F=B0FDM",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DK0&B0F=B0FDM",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DK0&B0F=B0FDM",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CA9",
+   "variantKey": "B0D=B0DJ0&B0F=B0FDM",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "2CA9",
+   "variantKey": "B0D=B0DJ0&B0F=B0FDM",
+   "fctId": "FCT0010"
+  }
+ ]
+}

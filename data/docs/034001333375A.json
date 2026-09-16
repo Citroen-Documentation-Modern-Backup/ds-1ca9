@@ -1,0 +1,23 @@
+{
+ "ref": "034001333375A",
+ "refDisplay": "0340 01 333375A",
+ "title": "BOITIER ELECTRONIQUE",
+ "nature": "",
+ "applicability": "BVM MA PILOTEE ET REGULATEUR ET LIMITEUR VITESSE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DAF&B0F=B0FBC",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DK0&B0F=B0FBC",
+   "fctId": "FCT0017"
+  }
+ ]
+}

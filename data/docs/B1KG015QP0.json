@@ -1,0 +1,20 @@
+{
+ "ref": "B1KG015QP0",
+ "refDisplay": "B1KG015QP0",
+ "title": "Dépose - repose : électrovanne de purge canister",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DAF&B0F=B0FS3",
+   "fctId": "FCT0012"
+  }
+ ]
+}

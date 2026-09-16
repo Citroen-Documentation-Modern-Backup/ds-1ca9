@@ -1,0 +1,25 @@
+{
+ "ref": "B1GB010FP0",
+ "refDisplay": "B1GB010FP0",
+ "title": "Identification  - caractéristiques : circuit de refroidissement (Moteur TU3A)",
+ "nature": "Caractéristiques - identifications",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "1CA9",
+   "variantKey": "B0D=B0DAF&B0F=B0FS1",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CA9",
+   "variantKey": "B0D=B0DJ0&B0F=B0FS1",
+   "fctId": "FCT0009"
+  }
+ ]
+}
