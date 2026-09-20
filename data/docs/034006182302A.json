@@ -1,18 +1,1 @@
-{
- "ref": "034006182302A",
- "refDisplay": "0340 06 182302A",
- "title": "ECRANS THERMIQUE D’ECHAPPEMENT",
- "nature": "",
- "applicability": "",
- "typDoc": "1",
- "css": [
-  "css/Document/pr.css"
- ],
- "usedBy": [
-  {
-   "ldp": "1CA9",
-   "variantKey": "B0D=B0DAF&B0F=B0FS3",
-   "fctId": "FCT0011"
-  }
- ]
-}
+{"ref":"034006182302A","refDisplay":"0340 06 182302A","title":"ECRANS THERMIQUE D’ECHAPPEMENT","nature":"","applicability":"","typDoc":"1","css":["css/Document/pr.css"],"usedBy":[{"ldp":"1CA9","variantKey":"B0D=B0DAF&B0F=B0FS3","fctId":"FCT0011"}],"kind":"pr","appl":"{(?1CA9)(B0FS3)}","tree":["document",{},[["thesaurus",{"type":"10","code":"000260"},[]],["thesaurus",{"type":"10","code":"000261"},[]],["thesaurus",{"type":"10","code":"012284"},[]],["thesaurus",{"type":"10","code":"008006"},[]],["mpr",{"catal":"0340","grp":"51","grp2":"06","maj":"20111022","numfich":"182302A"},[["appl",{},["{(?1CA9)(B0FS3)}"]],["sti",{"ident":"5101"},[]],["img",{"numfich":"00088020","path":"/img/pr/20/0008/00088020.jpg","ext":"jpg"},[]],["repere",{"rep":"01"},[["pr",{"codesi":"000260","ref":"00001723Z1","refpg":"1723 Z1"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CA9)}"]]]]]],["interactivite",{"order":"01"},[["area",{"coords":"112, 239, 11","shape":"circle"},[]]]]]],["repere",{"rep":"03"},[["pr",{"codesi":"000261","ref":"00001723FZ","refpg":"1723 FZ"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CA9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["CENT"]]]]]],["interactivite",{"order":"02"},[["area",{"coords":"211, 43, 11","shape":"circle"},[]]]]]],["repere",{"rep":"04"},[["pr",{"codesi":"000261","ref":"00001723HE","refpg":"1723 HE"},[["pmont",{"coef":"01"},[["appl",{},["{(?1CA9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["AR"]]]]]],["interactivite",{"order":"03"},[["area",{"coords":"343, 238, 11","shape":"circle"},[]]]]]],["repere",{"rep":"12"},[["pr",{"codesi":"012284","ref":"00007481GL","refpg":"7481 GL"},[["pmont",{"coef":"10"},[["appl",{},["{(?1CA9)}"]]]]]],["interactivite",{"order":"04"},[["area",{"coords":"343, 200, 11","shape":"circle"},[]],["area",{"coords":"197, 295, 11","shape":"circle"},[]],["area",{"coords":"346, 173, 11","shape":"circle"},[]],["area",{"coords":"44, 5, 11","shape":"circle"},[]]]]]],["repere",{"rep":"70"},[["pr",{"codesi":"008006","ref":"0000692273","refpg":"6922 73"},[["pmont",{"coef":"03"},[["appl",{},["{(?1CA9)}"]]]],["descomp",{},[["lib",{"langue":"01"},["DIAM 6X100-12"]]]]]],["interactivite",{"order":"05"},[["area",{"coords":"101, 5, 11","shape":"circle"},[]],["area",{"coords":"61, 99, 11","shape":"circle"},[]]]]]]]]]]}
